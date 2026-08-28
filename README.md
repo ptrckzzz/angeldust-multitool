@@ -1,4 +1,6 @@
-<img width="428" height="157" alt="Snímka obrazovky 2026-08-28 105432" src="https://github.com/user-attachments/assets/d3dc1c56-c2a8-4adb-808d-bea9868667de" />
+<img width="428" height="157" alt="angeldustlogo 105432" src="https://github.com/user-attachments/assets/b3249f04-1f04-4fba-be96-1a93f303029b" />
+
+
 # angeldust-multitool
 A lightweight terminal-based system diagnostics, network &amp; utility toolkit.
 # `ANGELDUST`
