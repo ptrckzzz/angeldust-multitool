@@ -1,5 +1,4 @@
-<img width="1109" height="619" alt="angeldustttt" src="https://github.com/user-attachments/assets/d9ab1273-956e-402d-a13c-fb2c3c94a2e9" />
-
+<img width="428" height="157" alt="angeldustlogo 105432" src="https://github.com/user-attachments/assets/b3249f04-1f04-4fba-be96-1a93f303029b" />
 
 # angeldust-multitool
 A lightweight terminal-based system diagnostics, network &amp; utility toolkit.
@@ -45,7 +44,7 @@ A lightweight terminal-based system diagnostics, network &amp; utility toolkit.
 - Temporary file cleaner
 - MD5 / SHA-1 / SHA-256 hash generator
 
-<img width="428" height="157" alt="angeldustlogo 105432" src="https://github.com/user-attachments/assets/b3249f04-1f04-4fba-be96-1a93f303029b" />
+<img width="1109" height="619" alt="angeldustttt" src="https://github.com/user-attachments/assets/d9ab1273-956e-402d-a13c-fb2c3c94a2e9" />
 
 ---
 
